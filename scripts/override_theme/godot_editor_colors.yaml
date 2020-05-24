@@ -1,0 +1,22 @@
+%YAML 1.2
+---
+coral: 'ff7084'
+lemon: 'ffeca0'
+green: '63c259'
+pistachio: 'a1c2aa'
+lightAqua: 'a0ffe0'
+darkAqua: '42ffc2'
+lightBlue: '66e5ff'
+darkBlue: '57b2ff'
+lavender: 'abc8ff'
+lightGrey: 'ccced3'
+darkGrey: '767982'
+
+error: 'ff0000'
+
+caretColor: 'ffffff'
+caretRowColor: '303440'
+
+editorBg: '202531'
+editorGuide: '333b4f'
+

@@ -1,0 +1,28 @@
+{
+  "DARK_BLUE": "#57b2ff",
+
+  "LIGHT_STEEL": "#333b4f",
+  "MEDIUM_STEEL": "#262c3b",
+  "DARK_STEEL": "#202531",
+  "DARKER_STEEL": "#191d27",
+
+  "ALMOST_WHITE": "#e0e0e0",
+  "LIGHTER_GREY": "#ccced3",
+  "LIGHT_GREY": "#8a8d96",
+  "MEDIUM_GREY": "#666c7b",
+  "DARK_GREY": "#404553",
+  "DARKER_GREY": "#333947",
+
+  "ERROR": "#fc776b",
+  "ERROR_INACTIVE": "#b93c38",
+  "ERROR_BACKGROUND": "#750004",
+  "ERROR_FOREGROUND": "#ffa797",
+
+  "WARNING": "#ffde66",
+  "WARNING_INACTIVE": "#a88e18",
+  "WARNING_BACKGROUND": "#554500",
+
+  "PASSED": "#63c259",
+  "PASSED_INACTIVE": "#18821f",
+  "PASSED_BACKGROUND": "#004700"
+}

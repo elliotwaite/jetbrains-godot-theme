@@ -1,0 +1,54 @@
+%YAML 1.2
+---
+colors:
+  CARET_COLOR: caretColor
+  CARET_ROW_COLOR: caretRowColor
+
+  GUTTER_BACKGROUND: editorBg
+
+  TEARLINE_COLOR: editorGuide
+  INDENT_GUIDE: editorGuide
+  RIGHT_MARGIN_COLOR: editorGuide  # Hard wrap guide.
+  VISUAL_INDENT_GUIDE: editorGuide  # Visual guide.
+  METHOD_SEPARATORS_COLOR: editorGuide
+
+  LINE_NUMBERS_COLOR: darkGrey
+  LINE_NUMBER_ON_CARET_ROW_COLOR: darkGrey
+
+attributes:
+  DEFAULT_IDENTIFIER:
+    background: editorBg
+  TEXT:
+    background: editorBg
+
+  DEFAULT_BRACES:
+    foreground: lavender
+  DEFAULT_BRACKETS:
+    foreground: lavender
+  DEFAULT_COMMA:
+    foreground: lavender
+  DEFAULT_DOT:
+    foreground: lavender
+  DEFAULT_OPERATION_SIGN:
+    foreground: lavender
+  DEFAULT_PARENTHS:
+    foreground: lavender
+  DEFAULT_SEMICOLON:
+    foreground: lavender
+#  [The := operator (but not sure how to target it)]
+#    foreground: lavender
+#  PY.PREDEFINED_USAGE (may not need):
+#    foreground: lavender
+
+  DEFAULT_NUMBER:
+    foreground: lightAqua
+
+  DEFAULT_FUNCTION_DECLARATION: lightBlue
+  DEFAULT_FUNCTION_CALL: darkBlue
+
+  DEFAULT_METADATA: green
+
+  DEFAULT_DOC_COMMENT_TAG: lightGrey
+
+  PY.DECORATOR: darkBlue
+

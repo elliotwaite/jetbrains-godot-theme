@@ -1,0 +1,19 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.4.21'
+}
+
+group 'com.elliotwaite'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+intellij {
+    version 'LATEST-EAP-SNAPSHOT'
+}
+
+patchPluginXml {
+    changeNotes """
+      First release (no changes)."""
+}
