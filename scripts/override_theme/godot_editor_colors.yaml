@@ -17,6 +17,7 @@ error: 'ff0000'
 caretColor: 'ffffff'
 caretRowColor: '303440'
 
-editorBg: '202531'
-editorGuide: '333b4f'
+lightSteel: '333b4f'
+mediumSteel: '262c3b'
+darkSteel: '202531'
 

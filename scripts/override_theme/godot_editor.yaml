@@ -4,22 +4,22 @@ colors:
   CARET_COLOR: caretColor
   CARET_ROW_COLOR: caretRowColor
 
-  GUTTER_BACKGROUND: editorBg
+  GUTTER_BACKGROUND: mediumSteel
 
-  TEARLINE_COLOR: editorGuide
-  INDENT_GUIDE: editorGuide
-  RIGHT_MARGIN_COLOR: editorGuide  # Hard wrap guide.
-  VISUAL_INDENT_GUIDE: editorGuide  # Visual guide.
-  METHOD_SEPARATORS_COLOR: editorGuide
+  TEARLINE_COLOR: lightSteel
+  INDENT_GUIDE: lightSteel
+  RIGHT_MARGIN_COLOR: lightSteel  # Hard wrap guide.
+  VISUAL_INDENT_GUIDE: lightSteel  # Visual guide.
+  METHOD_SEPARATORS_COLOR: lightSteel
 
   LINE_NUMBERS_COLOR: darkGrey
   LINE_NUMBER_ON_CARET_ROW_COLOR: darkGrey
 
 attributes:
   DEFAULT_IDENTIFIER:
-    background: editorBg
+    background: darkSteel
   TEXT:
-    background: editorBg
+    background: darkSteel
 
   DEFAULT_BRACES:
     foreground: lavender
