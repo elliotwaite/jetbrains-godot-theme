@@ -3,17 +3,21 @@ plugins {
 }
 
 group 'com.elliotwaite'
-version '1.0.0'
+version '1.0.2'
 
 repositories {
     mavenCentral()
 }
 
 intellij {
-    version 'LATEST-EAP-SNAPSHOT'
+    version '2020.1.1'
+    type 'PC'
 }
 
 patchPluginXml {
     changeNotes """
-      First release (no changes)."""
+<ul>
+  <li>Added informaiton to the description about the current state of the syntax highlighing.</li>
+</ul>
+"""
 }
