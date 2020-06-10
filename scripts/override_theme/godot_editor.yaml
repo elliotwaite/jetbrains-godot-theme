@@ -4,6 +4,8 @@ colors:
   CARET_COLOR: caretColor
   CARET_ROW_COLOR: caretRowColor
 
+  DOCUMENTATION_COLOR: mediumSteel
+
   GUTTER_BACKGROUND: mediumSteel
 
   TEARLINE_COLOR: lightSteel

@@ -6,11 +6,6 @@
     <description><![CDATA[
     A theme inspired by the Godot editor's default theme.<br />
     <br />
-    After installing, enable the theme:
-    <ul>
-        <li>Preferences > Appearance & Behavior > Appearance > Theme: <b>Godot Theme</b></li>
-    </ul>
-    <br />
     To match the Godot editor's font:<br />
     <ul>
         <li>Preferences > Editor > Font > Font: <b>Source Code Pro</b> (downloadable <a href="https://fonts.google.com/specimen/Source+Code+Pro">here</a>)</li>
@@ -23,8 +18,8 @@
     But since that plugin does not classify all the different types of syntax symbols, many of the symbols cannot be
     targeted to be set to the correct color. Hopefully this will be improved in the future.<br />
     <br />
-    If you would like the syntax highlighting improved for any other language, or if you have any suggestions,
-    please open an issue on <a href="https://github.com/elliotwaite/jetbrains-godot-theme">GitHub</a>.<br />
+    To report a bug or make a suggestion,
+    open an issue on <a href="https://github.com/elliotwaite/jetbrains-godot-theme">GitHub</a>.<br />
     <br />
     This theme is open source and was built on top of the
     <a href="https://github.com/one-dark/jetbrains-one-dark-theme">One Dark</a> theme.<br />
