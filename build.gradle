@@ -3,21 +3,22 @@ plugins {
 }
 
 group 'com.elliotwaite'
-version '1.0.5'
+version '1.0.8'
 
 repositories {
     mavenCentral()
 }
 
 intellij {
-    version '2020.1.1'
-    type 'PC'
+    version 'LATEST-EAP-SNAPSHOT'
+//    version '2020.1.1'
+//    type 'PC'
 }
 
 patchPluginXml {
     changeNotes """
 <ul>
-  <li>Updated the background color and selection color for the autocomplete window.</li>
+  <li>Add support for 2020.2 EAP series.</li>
 </ul>
 """
 }
