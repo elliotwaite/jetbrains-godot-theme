@@ -25,3 +25,6 @@ Hopefully this will be improved in the future.
 
 ## Open Source
 This theme is open source and was built on top of [One Dark](https://github.com/one-dark/jetbrains-one-dark-theme), which was used as the base theme, and then modified to look more like the Godot editor's default theme.
+
+## License
+[MIT](LICENSE)
