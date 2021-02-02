@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.elliotwaite'
-version '1.0.8'
+version '1.0.10'
 
 repositories {
     mavenCentral()
@@ -11,14 +11,13 @@ repositories {
 
 intellij {
     version 'LATEST-EAP-SNAPSHOT'
-//    version '2020.1.1'
-//    type 'PC'
 }
 
 patchPluginXml {
+    sinceBuild '162'
     changeNotes """
-<ul>
-  <li>Add support for 2020.2 EAP series.</li>
-</ul>
-"""
+    <ul>
+      <li>Add support for 2021.1 EAP versions.</li>
+    </ul>
+    """
 }
