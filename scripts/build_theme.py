@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom as minidom
 
 CUR_DIR = os.path.dirname(__file__)
-OUTPUT_DIR = os.path.join(CUR_DIR, '../src/main/resources')
+OUTPUT_DIR = os.path.join(CUR_DIR, '../resources')
 
 BASE_IDE_THEME_PATH = os.path.join(CUR_DIR, 'base_theme/one_dark_ide.json')
 OVERRIDE_IDE_THEME_PATH = os.path.join(CUR_DIR, 'override_theme/godot_ide.json')

@@ -1,0 +1,7 @@
+To publish an update:
+1. Build > Prepare Plugin Module "jetbrains-godot-theme" For Deployment
+2. Upload ".idea/jetbrains-godot-theme.jar" to the JetBrains Plugin Repository.
+
+
+TODOs:
+* Add color for built-in variable (very light blue), such as "rotation" in a KinematicBody2D script.

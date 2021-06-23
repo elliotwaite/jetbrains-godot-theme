@@ -1,1 +1,0 @@
-Add color for built-in variable (very light blue), such as "rotation" in a KinematicBody2D script.
