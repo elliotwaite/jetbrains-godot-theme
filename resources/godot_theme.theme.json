@@ -288,7 +288,16 @@
     },
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "#202531",
-      "separatorColor": "#333947"
+      "separatorColor": "#333947",
+      "Details": {
+        "background": "#202531"
+      }
+    },
+    "AssignedMnemonic": {
+      "background": "#57b2ff"
+    },
+    "CurrentMnemonic": {
+      "background": "#63c259"
     }
   },
   "icons": {

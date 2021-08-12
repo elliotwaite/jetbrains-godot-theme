@@ -8,8 +8,8 @@ DEMO_EDITOR_THEME_PATH = 'demo_theme/highContrastSchemeWhitened.xml'
 THEME_METADATA_PATHS = ('theme_metadata/IntelliJPlatform.themeMetadata.json',
                         'theme_metadata/JDK.themeMetadata.json')
 
-IDE_THEME_OUTPUT_PATH = '../../resources/godot_theme.theme.json'
-EDITOR_THEME_OUTPUT_PATH = '../../resources/godot_theme.xml'
+IDE_THEME_OUTPUT_PATH = 'debug_theme/godot_theme.theme.json'
+EDITOR_THEME_OUTPUT_PATH = 'debug_theme/godot_theme.xml'
 
 # UI keys with these endings should be ignored because they either don't accept color values (such as border widths),
 # or they hide underlying content (such as masks).

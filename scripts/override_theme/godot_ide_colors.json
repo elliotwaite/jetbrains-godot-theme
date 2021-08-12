@@ -1,5 +1,13 @@
 {
+  "CORAL": "#ff7084",
+  "LEMON": "#ffeca0",
+  "GREEN": "#63c259",
+  "PISTACHIO": "#a1c2aa",
+  "LIGHT_AQUA": "#a0ffe0",
+  "DARK_AQUA": "#42ffc2",
+  "LIGHT_BLUE": "#66e5ff",
   "DARK_BLUE": "#57b2ff",
+  "LAVENDER": "#abc8ff",
 
   "LIGHT_STEEL": "#333b4f",
   "MEDIUM_STEEL": "#262c3b",

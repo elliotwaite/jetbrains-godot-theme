@@ -151,8 +151,10 @@ class EditorThemeBuilder:
     def write(self, output_path):
         parsed_theme = self.build_parsed_theme()
         xml = self.build_xml(parsed_theme)
+        output_str = minidom.parseString(ET.tostring(xml.getroot())).toprettyxml(indent='  ')
+        output_str = output_str.split('\n', 1)[1]  # Remove the xml header tag.
         with open(output_path, 'w') as f:
-            f.write(minidom.parseString(ET.tostring(xml.getroot())).toprettyxml(indent='  '))
+            f.write(output_str)
 
 
 def build_editor_theme():

@@ -38,6 +38,10 @@
       "pressedBorderColor": "DARK_STEEL"
     },
 
+    "AssignedMnemonic": {
+      "background": "DARK_BLUE"
+    },
+
     "Button": {
       "foreground": "ALMOST_WHITE",
       "startBackground": "LIGHT_STEEL",
@@ -92,6 +96,10 @@
     "Counter": {
       "background": "MEDIUM_STEEL",
       "foreground": "LIGHTER_GREY"
+    },
+
+    "CurrentMnemonic": {
+      "background": "GREEN"
     },
 
     "DefaultTabs": {
@@ -345,7 +353,10 @@
 
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "DARK_STEEL",
-      "separatorColor": "DARKER_GREY"
+      "separatorColor": "DARKER_GREY",
+      "Details": {
+        "background": "DARK_STEEL"
+      }
     }
   },
 
