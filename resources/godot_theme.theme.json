@@ -71,7 +71,8 @@
       "errorFocusColor": "#fc776b",
       "inactiveErrorFocusColor": "#b93c38",
       "warningFocusColor": "#ffde66",
-      "inactiveWarningFocusColor": "#a88e18"
+      "inactiveWarningFocusColor": "#a88e18",
+      "focusColor": "#57b2ff"
     },
     "Counter": {
       "background": "#262c3b",
@@ -294,10 +295,10 @@
       }
     },
     "AssignedMnemonic": {
-      "background": "#57b2ff"
+      "background": "#3B6B98"
     },
     "CurrentMnemonic": {
-      "background": "#63c259"
+      "background": "#417345"
     }
   },
   "icons": {

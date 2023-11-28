@@ -39,7 +39,7 @@
     },
 
     "AssignedMnemonic": {
-      "background": "DARK_BLUE"
+      "background": "DARK_BLUE_50_OVER_DARK_STEEL"
     },
 
     "Button": {
@@ -88,6 +88,7 @@
 
     "Component": {
       "errorFocusColor": "ERROR",
+      "focusColor": "DARK_BLUE",
       "inactiveErrorFocusColor": "ERROR_INACTIVE",
       "warningFocusColor": "WARNING",
       "inactiveWarningFocusColor": "WARNING_INACTIVE"
@@ -99,7 +100,7 @@
     },
 
     "CurrentMnemonic": {
-      "background": "GREEN"
+      "background": "GREEN_50_OVER_DARK_STEEL"
     },
 
     "DefaultTabs": {
